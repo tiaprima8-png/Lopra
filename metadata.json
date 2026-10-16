@@ -1,0 +1,6 @@
+{
+  "name": "Loopra Studio AI",
+  "description": "Studio YouTube Shorts Viral Analyzer, Original Video Remake Engine & Channel Automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
